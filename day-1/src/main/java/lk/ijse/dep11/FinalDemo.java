@@ -1,4 +1,4 @@
-package lk.ijse.dep11.ds;
+package lk.ijse.dep11;
 
 public final class FinalDemo {
     final int x = 10;

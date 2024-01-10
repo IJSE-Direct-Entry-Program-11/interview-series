@@ -1,4 +1,4 @@
-package lk.ijse.dep11.ds;
+package lk.ijse.dep11;
 
 public class NestedClassesDemo {
 
